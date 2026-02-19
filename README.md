@@ -2,9 +2,7 @@
 Binary classification of breast cancer tumors using Machine Learning (Scikit-learn) and Deep Learning (Tensorflow) models with performance comparison.
 
 🩺 Breast Cancer Classification using Machine Learning & Deep Learning
-<p align="center"> <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python"/> <img src="https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange?style=for-the-badge"/> <img src="https://img.shields.io/badge/Deep%20Learning-TensorFlow-red?style=for-the-badge&logo=tensorflow"/> <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge"/> </p>
-📌 Project Overview
-
+<p align="center"> <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python"/> <img src="https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange?style=for-the-badge"/> <img src="https://img.shields.io/badge/Deep%20Learning-TensorFlow-red?style=for-the-badge&logo=tensorflow"/> 
 Breast cancer is one of the most common cancers worldwide.
 This project focuses on building a binary classification system to predict whether a breast tumor is Malignant or Benign using Machine Learning and Deep Learning techniques.
 
