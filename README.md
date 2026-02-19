@@ -99,7 +99,7 @@ Platform: Google Colab
 
 ▶️ How to Run the Project
 # Clone the repository
-git clone https://github.com/Aadarshshukla18/Breast-Cancer-Classification-Project-ML-DL.git
+git clone https://github.com/Aadarshshukla18/Breast-Cancer-Classification-Project-using-ML-and-DL
 
 # Navigate to the project folder
 cd Breast-Cancer-Classification-ML-DL
